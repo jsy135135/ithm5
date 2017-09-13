@@ -1,5 +1,6 @@
 <?php
 //添加数据
+//连接mongodb
 //实列化
 $mongo = new MongoClient("mongodb://192.168.127.99");
 //连接数据库
